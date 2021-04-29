@@ -105,8 +105,7 @@
 
 ### 2.1	Phương trình (BP1)
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Chứng minh (BP1)
-<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116346531-aa01f780-a814-11eb-863d-2c0b0f2cb91e.jpg" width="50%"/>
-<p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116346532-aa9a8e00-a814-11eb-8e95-7e071ab56a6d.jpg" width="50%"/>
+
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Cho một biểu thức cho lỗi đầu ra δ^L. Để chứng minh đẳng thức này, hãy nhớ lại điều đó theo định nghĩa
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77925421/116346718-fcdbaf00-a814-11eb-9a40-449f8aae1406.PNG" width="50%"/>
 
